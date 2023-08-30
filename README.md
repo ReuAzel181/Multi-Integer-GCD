@@ -1,1 +1,1 @@
-# GCD-of-3-or-more-int
+# This repository contains a Python script that calculates the greatest common divisor (GCD) of multiple non-negative integers using the Euclidean algorithm. The script prompts the user to input at least three non-negative integers and then displays the calculated GCD. It includes functions for computing the GCD of two numbers and the GCD of multiple numbers. Input validation ensures that only valid integers are accepted. To use the script, clone the repository and run the script with Python. Contributions are welcome.

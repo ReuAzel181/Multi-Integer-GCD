@@ -16,7 +16,7 @@ Notes
 At least three integers are required to calculate the GCD.
 Negative integers are not allowed.
 
-Feel free to customize the content as needed for your specific requirements or audience.
 
 ![Muti Integer GCD](https://github.com/ReuAzel181/Multi-Integer-GCD/blob/main/image.png)
 
+Feel free to customize the content as needed for your specific requirements or audience.

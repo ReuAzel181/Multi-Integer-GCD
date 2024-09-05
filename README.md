@@ -1,8 +1,5 @@
 # Multi Integer GCD
 
-
-Certainly! Here's a README template for your program:
-
 Multi-Integer GCD Calculator
 This program calculates the Greatest Common Divisor (GCD) of three or more non-negative integers.
 

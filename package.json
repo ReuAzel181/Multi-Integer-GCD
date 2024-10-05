@@ -1,0 +1,12 @@
+{
+  "name": "multi-integer-gcd",
+  "version": "1.0.0",
+  "description": "Multi-Integer GCD Calculator\r This program calculates the Greatest Common Divisor (GCD) of three or more non-negative integers.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node script.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

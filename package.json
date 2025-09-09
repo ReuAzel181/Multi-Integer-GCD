@@ -1,0 +1,27 @@
+{
+  "name": "figma-shortcuts-plugin",
+  "version": "1.0.0",
+  "description": "A Figma plugin with keyboard shortcuts and persistent UI",
+  "main": "dist/code.js",
+  "scripts": {
+    "build": "npm run build:code && npm run build:ui",
+    "build:code": "vite build --config vite.config.ts",
+    "build:ui": "vite build --config vite.config.ui.ts",
+    "dev": "concurrently \"vite build --watch --config vite.config.ts\" \"vite build --watch --config vite.config.ui.ts\"",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.75.0",
+    "@types/node": "^24.5.2",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "concurrently": "^8.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.4.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
